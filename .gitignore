@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv38/
+Py38/
+.env
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Test/temp files
+*.log
+*.pcm
+*.mkv
+crash.log
+_tmp_*
