@@ -1,5 +1,5 @@
 这里提供最新版本exe的蓝奏云地址
-https://wwaxk.lanzoue.com/iCu3V46g7xjg
-密码:2k15
-https://wwaxk.lanzoue.com/ilOyd46g81sj
-密码:8jne
+https://wwaxk.lanzoue.com/iRd5646nf8na
+密码:1v7r
+https://wwaxk.lanzoue.com/isCCy46nf83a
+密码:dx88
